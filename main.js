@@ -3,6 +3,11 @@
 //Tạo đối tượng dssv từ lớp đối tượng dssv
 var dssv = new DanhSachSinhVien();
 var validation = new Validation();
+
+function addUser() {
+  console.log("Đây là add user của dhbinh2");
+}
+
 function getEle(id) {
   return document.getElementById(id);
 }
