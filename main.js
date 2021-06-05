@@ -5,7 +5,7 @@ var dssv = new DanhSachSinhVien();
 var validation = new Validation();
 
 function addUser() {
-  console.log("Đây là chức năng add user đã làm xong");
+  console.log("Đây là add user của dhbinh2");
 }
 
 function getEle(id) {
