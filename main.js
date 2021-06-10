@@ -7,8 +7,8 @@ var validation = new Validation();
 function addUser() {
   console.log("Đây là add user của dhbinh2");
 }
-function test3() {
-  console.log("Đây là test3");
+function test4() {
+  console.log("Đây là test4");
 }
 
 function getEle(id) {
