@@ -7,6 +7,9 @@ var validation = new Validation();
 function addUser() {
   console.log("Đây là chức năng add user đã làm xong");
 }
+function test() {
+  console.log("đây là test 1");
+}
 
 function getEle(id) {
   return document.getElementById(id);
