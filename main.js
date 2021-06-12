@@ -9,6 +9,7 @@ function addUser6() {
 }
 function test6() {
   console.log("đây là test 6");
+  console.log("đây là test 7");
 }
 
 function getEle(id) {
