@@ -4,11 +4,11 @@
 var dssv = new DanhSachSinhVien();
 var validation = new Validation();
 
-function addUser() {
-  console.log("Đây là add user của dhbinh2");
+function addUser6() {
+  console.log("Đây là add user của dhbinh");
 }
-function test() {
-  console.log("đây là test 5");
+function test6() {
+  console.log("đây là test 6");
 }
 
 function getEle(id) {
