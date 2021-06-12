@@ -8,7 +8,7 @@ function addUser() {
   console.log("Đây là chức năng add user đã làm xong");
 }
 function test() {
-  console.log("đây là test 1");
+  console.log("đây là test 5");
 }
 
 function getEle(id) {
